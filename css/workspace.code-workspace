@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Coding\\neo-cosma-records"
+		},
+		{
+			"path": "..\\..\\..\\Coding\\CodingProjects\\3dWorkforme"
+		},
+		{
+			"path": "..\\..\\..\\Coding\\CodingProjects\\three.js practice"
+		},
+		{
+			"path": "..\\..\\..\\Coding\\CodingProjects\\jsarcade"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "jsarcade"
+	}
+}
