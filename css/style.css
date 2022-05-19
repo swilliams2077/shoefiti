@@ -4,9 +4,16 @@
 
 .background {
   background-image: url('../media/gif/Sequence\ 04.gif');
-  height: 100%;
-  background-blend-mode: color-dodge;
+  height: 50%;
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+ }
+
+ @import url('fonts/Monoton-Regular.ttf');
+ @import url('fonts/PressStart2P-Regular.ttf');
+ @import url('fonts/ShareTechMono-Regular.ttf');
+
+.title_banner {
+   font-family: 'ShareTechMono-Regular.tff';
  }

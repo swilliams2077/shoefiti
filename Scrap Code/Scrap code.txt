@@ -1,0 +1,27 @@
+    <!-- <div class="row">
+      <div class="col-3">
+        <img src="media/img/pretty.jpg" class="roundeed img-thumbnail" alt="content images">
+        <p>Reprehenderit et pariatur id sit ipsum nisi amet.</p>
+
+      </div>
+      <div class="col-3">
+        <img src="media/img/pretty.jpg" class="rounded img-thumbnail" alt="content images">
+        <p>Duis est sunt aute consectetur ipsum proident ex ea proident.</p>
+  
+      </div>
+      <div class="col-3">
+        <img src="media/img/pretty.jpg" class="roundeed img-thumbnail" alt="content images">
+        <p>Et do exercitation voluptate officia.</p>
+  
+      </div>
+      <div class="col-3">
+        <img src="media/img/pretty.jpg" class="roundeed img-thumbnail" alt="content images">
+        <p>Et do exercitation voluptate officia.</p>
+  
+      </div>
+    </div> -->
+
+
+     <!-- <p>Mollit magna id esse non et excepteur aliquip nulla dolore cillum aliqua do. Deserunt nostrud velit duis nisi dolor dolor. Consequat nulla duis quis consequat eiusmod non anim mollit Lorem laborum. Ipsum sit tempor minim sit ullamco non fugiat sint cupidatat. Lorem anim cillum exercitation nulla amet velit qui dolore velit tempor aliqua. Nisi tempor irure deserunt consequat esse deserunt veniam excepteur excepteur. Ea ullamco irure officia Lorem deserunt et occaecat non duis ipsum ad nisi quis ex.</p> -->
+
+     
